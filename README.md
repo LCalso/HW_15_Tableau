@@ -1,4 +1,5 @@
 # Tableau Assignment - Citi Bike Analytics
+I also answered the questions below for this assignment.
 
 ## Background
 
@@ -14,11 +15,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
 
-* How many trips have been recorded total during the chosen period?
+* How many trips have been recorded total during the chosen period? 16,365,695 trips during 2017
 
-* By what percentage has total ridership grown? 
+* By what percentage has total ridership grown? 11.5%
 
-* How has the proportion of short-term customers and annual subscribers changed?
+* How has the proportion of short-term customers and annual subscribers changed? The total amount of annual members have increased over time in 2017.
 
 * What are the peak hours in which bikes are used during summer months? 
 
