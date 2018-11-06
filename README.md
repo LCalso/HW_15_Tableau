@@ -21,9 +21,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How has the proportion of short-term customers and annual subscribers changed? The total amount of annual members have increased over time in 2017.
 
-* What are the peak hours in which bikes are used during summer months? 
-
-* What are the peak hours in which bikes are used during winter months?
+* What are the peak hours in which bikes are used during summer months? Around 5pm-6pm
+ 
+* What are the peak hours in which bikes are used during winter months? Around 6pm
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
