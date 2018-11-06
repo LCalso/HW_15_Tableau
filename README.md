@@ -25,15 +25,15 @@ However, while the data has been regularly updated, the team has yet to implemen
  
 * What are the peak hours in which bikes are used during winter months? Around 6pm
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?) Shown in Top and Bottom 10 stations for starting and ending journey image and storyboard.
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)Shown in Top and Bottom 10 stations for starting and ending journey image and storyboard.
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?) Shown in Top and Bottom 10 stations for starting and ending journey image and storyboard.
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?) Shown in Top and Bottom 10 stations for starting and ending journey image and storyboard.
 
-* Today, what is the gender breakdown of active participants (Male v. Female)?
+* Today, what is the gender breakdown of active participants (Male v. Female)? The majority of Citi Bike riders were 18-20 year old young males but the number of female riders increases over time as they are showing more interest to bike during the weekends. 
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
