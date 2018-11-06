@@ -41,7 +41,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * What is the average distance in miles that a bike is ridden? 739.7 mile per bike.
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan? Bike ID 29242 is the most need for repair or inspection then bike IDs 29542, 29646, 26273, 29434, 29246, 
+* Which bikes (by ID) are most likely due for repair or inspection in the timespan? Bike ID 29242 is the most need for repair or inspection then bike IDs 29542, 29646, 26273, 29522, 29434, 29246, 26168, and 29623. 
 
 * How variable is the utilization by bike ID?
 
