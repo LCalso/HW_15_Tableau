@@ -1,5 +1,5 @@
 # Tableau Assignment - Citi Bike Analytics
-**Note: My answers/analysis to questions are answered after the questions below for this assignment.**
+**Note: My answers/analysis are after the questions below for this assignment.**
 
 ## Background
 
