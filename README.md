@@ -1,5 +1,5 @@
 # Tableau Assignment - Citi Bike Analytics
-I also answered the questions below for this assignment.
+**Note: My answers/analysis to questions are answered after the questions below for this assignment.**
 
 ## Background
 
@@ -50,6 +50,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 * If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
+Commentary: More and more people choose to live in New Jersey and work in Manhattan. 
 
 **Lastly, as a chronic over-achiever:**
 
