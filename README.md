@@ -37,7 +37,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How effective has gender outreach been in increasing female ridership over the timespan? The highest range of female ridership occurred between August to October with October being its highest month. 
 
-* How does the average trip duration change by age? he majority of Citi Bike riders were 18-20 year old young males but the number of female riders increases over time as they were showing more interest to bike during the weekends. 
+* How does the average trip duration change by age? The majority of Citi Bike riders were 18-20 year old young males but the number of female riders increases over time as they were showing more interest to bike during the weekends. 
 
 * What is the average distance in miles that a bike is ridden? 739.7 mile per bike.
 
