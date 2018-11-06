@@ -33,15 +33,15 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?) Shown in Top and Bottom 10 stations for starting and ending journey image and storyboard.
 
-* Today, what is the gender breakdown of active participants (Male v. Female)? The majority of Citi Bike riders were 18-20 year old young males but the number of female riders increases over time as they are showing more interest to bike during the weekends. 
+* Today, what is the gender breakdown of active participants (Male v. Female)? The majority of Citi Bike riders were 18-20 year old young males but the number of female riders increases over time as they were showing more interest to bike during the weekends. A limitation is 7% users did not provide gender information. Most of them (14%) were weekend users so not certain if females were more willing to ride on the weekend than they do on weekdays. However, we may still determine that male users were the dominant customers at all times.
 
-* How effective has gender outreach been in increasing female ridership over the timespan?
+* How effective has gender outreach been in increasing female ridership over the timespan? The highest range of female ridership occurred between August to October with October being its highest month. 
 
-* How does the average trip duration change by age?
+* How does the average trip duration change by age? he majority of Citi Bike riders were 18-20 year old young males but the number of female riders increases over time as they were showing more interest to bike during the weekends. 
 
-* What is the average distance in miles that a bike is ridden?
+* What is the average distance in miles that a bike is ridden? 739.7 mile per bike.
 
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan? 
+* Which bikes (by ID) are most likely due for repair or inspection in the timespan? Bike ID 29242 is the most need for repair or inspection then bike IDs 29542, 29646, 26273, 29434, 29246, 
 
 * How variable is the utilization by bike ID?
 
