@@ -1,6 +1,6 @@
 # Tableau Assignment - Citi Bike Analytics
 **Note: Please select 
-https://us-west2b.online.tableau.com/#/site/calsohw16citibikeanalytics/views/Calso_HW16_Citi_Bike_Analytics/CikeBikeAnalyticsStoryboard?:iid=2
+https://us-west-2b.online.tableau.com/t/calsohw16citibikeanalytics/views/Calso_HW16_Citi_Bike_Analytics/CikeBikeAnalyticsStoryboard?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no
 to view my Citi Bike Analytics Storyboad. My answers/analysis are after the questions below for this assignment.**
 
 ## Background
