@@ -1,5 +1,5 @@
 # Tableau Assignment - Citi Bike Analytics
-**Note: Tableau Desktop 2018.2 is need to load storyboard. My answers/analysis are after the questions below for this assignment.**
+**Note: Tableau Desktop 2018.2 is required to load storyboard. My answers/analysis are after the questions below for this assignment.**
 
 ## Background
 
